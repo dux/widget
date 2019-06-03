@@ -1,0 +1,15 @@
+{
+  "name": "@dinoreic/widget",
+  "version": "0.2.1",
+  "description": "Simple HTML Widgets, rendered as HTML custom elements",
+  "license": "MIT",
+  "repository": "dux/widget",
+  "main": "index.js",
+  "private":false,
+  "keywords": [
+    "npm",
+    "create_element",
+    "package"
+  ],
+  "dependencies": {}
+}
